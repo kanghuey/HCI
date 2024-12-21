@@ -1,4 +1,4 @@
 # HCI
 Human-Computer Interaction Assignments
 
-##Individual Assignment 1
+## Individual Assignment 1
