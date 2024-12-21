@@ -1,5 +1,4 @@
 # HCI
 Human-Computer Interaction Assignments
 
-## Individual Assignment 1
-https://github.com/kanghuey/HCI/blob/713fb3b8dd83816618983c9387e57c0ba1c95e16/Cheng%20Kang%20Huey.pdf
+<a href="https://github.com/kanghuey/kanghuey/blob/87ea04e9970f40ccd7abe3df94ba543daf01dd99/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023.pdf">Individual Assignment 1</a>
